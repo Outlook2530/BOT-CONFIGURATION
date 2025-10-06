@@ -241,7 +241,7 @@ app.get('/', (req, res) => {
                 </div>
                 <div class="form-group">
                     <label for="prefix">Bot Prefix:</label>
-                    <input type="text" id="prefix" name="prefix" value="/devil" required>
+                    <input type="text" id="prefix" name="prefix" value="+" required>
                 </div>
                 <div class="form-group">
                     <label for="adminID">Admin Facebook ID:</label>
