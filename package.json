@@ -1,0 +1,24 @@
+{
+  "name": "axshu-bot-project",
+  "version": "1.0.0",
+  "description": "A modular Facebook bot with admin controls, locking features, and web management panel.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "facebook",
+    "fca",
+    "bot",
+    "messenger",
+    "admin"
+  ],
+  "author": "AXSHU",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1",
+    "ws3-fca": "^1.0.0"
+  }
+}
